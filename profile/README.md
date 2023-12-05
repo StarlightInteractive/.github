@@ -3,6 +3,9 @@
 ### Who are we?
 We're a team of passionate developers creating Virtual Reality software and powerful immersive experiences!
 
+### What can I find here?
+You can find some things related to Nexus that we believed we should share with the world! These could include random things we made for the Nexus platform, or maybe some old, deprecated code that we think might be useful to somebody else! Alongside some code, you can also find the Nexus public issues repository here, too.
+
 ## Our Directive: Pushing the boundaries of VR.
 We are dedicated to consistently pushing the boundaries of what is possible in VR. Our development team works tirelessly to iterate and improve our platform based on community feedback. Together, we aim to blur the lines between reality and virtual reality, fostering a universe where anybody can build anything.
 
